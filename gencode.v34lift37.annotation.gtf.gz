@@ -1,9 +1,0 @@
---2022-01-10 16:35:07--  ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping/gencode.v34lift37.annotation.gtf.gz
-           => ‘gencode.v34lift37.annotation.gtf.gz.1’
-Resolving ftp.ebi.ac.uk (ftp.ebi.ac.uk)... 193.62.197.74
-Connecting to ftp.ebi.ac.uk (ftp.ebi.ac.uk)|193.62.197.74|:21... connected.
-Logging in as anonymous ... Logged in!
-==> SYST ... done.    ==> PWD ... done.
-==> TYPE I ... done.  ==> CWD (1) /pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping ... done.
-==> SIZE gencode.v34lift37.annotation.gtf.gz ... 56271631
-==> PASV ... 
