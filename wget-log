@@ -1,0 +1,36 @@
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping ... done.
+==> SIZE gencode.v34lift37.annotation.gtf.gz ... 56271631
+==> PASV ... couldn't connect to 193.62.197.74 port 41474: Connection timed out
+Retrying.
+
+--2022-01-10 10:14:23--  ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping/gencode.v34lift37.annotation.gtf.gz
+  (try:18) => ‘gencode.v34lift37.annotation.gtf.gz’
+Connecting to ftp.ebi.ac.uk (ftp.ebi.ac.uk)|193.62.197.74|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping ... done.
+==> SIZE gencode.v34lift37.annotation.gtf.gz ... 56271631
+==> PASV ... couldn't connect to 193.62.197.74 port 46933: Connection timed out
+Retrying.
+
+--2022-01-10 10:16:42--  ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping/gencode.v34lift37.annotation.gtf.gz
+  (try:19) => ‘gencode.v34lift37.annotation.gtf.gz’
+Connecting to ftp.ebi.ac.uk (ftp.ebi.ac.uk)|193.62.197.74|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping ... done.
+==> SIZE gencode.v34lift37.annotation.gtf.gz ... 56271631
+==> PASV ... couldn't connect to 193.62.197.74 port 46567: Connection timed out
+Retrying.
+
+--2022-01-10 10:19:01--  ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping/gencode.v34lift37.annotation.gtf.gz
+  (try:20) => ‘gencode.v34lift37.annotation.gtf.gz’
+Connecting to ftp.ebi.ac.uk (ftp.ebi.ac.uk)|193.62.197.74|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/databases/gencode/Gencode_human/release_34/GRCh37_mapping ... done.
+==> SIZE gencode.v34lift37.annotation.gtf.gz ... 56271631
+==> PASV ... couldn't connect to 193.62.197.74 port 45642: Connection timed out
+Giving up.
+
